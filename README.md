@@ -9,5 +9,5 @@
 ## :pencil: Dashboard | Add Post
 <img src='http://imgur.com/wTdGrrk.png' />
 
-## Dashboard | Posts
+## :newspaper: Dashboard | Posts
 <img src='http://imgur.com/K09cIN5.png' />
