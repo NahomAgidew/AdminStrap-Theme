@@ -6,5 +6,8 @@
 ## :house: Dashboard | Home
 <img src='http://i.imgur.com/lbH52fN.png' />
 
-## :pencil2: Dashboard | Add Post
+## :pencil: Dashboard | Add Post
 <img src='http://imgur.com/wTdGrrk.png' />
+
+## Dashboard | Posts
+<img src='http://imgur.com/K09cIN5.png' />
